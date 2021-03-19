@@ -1,0 +1,37 @@
+Three slowest modes data is given for each structure
+
+PDZ
+
+min = [4 6 13 15 17 26 31 37 43 48 51 57 65 69 72 76 78 80]; %minima positions
+DATA = [13 14 15 17 18 19 20 26 28 31 37 43 49 52 57 62 65 66 69 78]; % Important positions from data
+
+CcdB - use ChainA files for p-value
+
+min = [2 5 14 16 20 25 27 35 50 63 66 68 71 90 93 95 97]; %minima positions
+DATA = [2 3 5 6 18 20 22 24 34 35 36 63 68 83 90 94 98 99 100]; % Important positions from data
+
+GAL4 DNA binding domain - use noDNA files for p-value
+
+min = [2 8 11 14 33 36 39 41 44 47]; %minima positions
+DATA = [3 4 5 7 8 10 11 15 19 21 31 34 39 40 43 44 47 57]; % Important positions from data
+
+PAB1 RRM2 domain - use RRM2 files for p-value
+
+min = [2 4 14 18 31 34 44 46]; %minima positions
+DATA = [2 3 4 5 6 8 12 17 24 25 27 29 31 43 44 45 46 47 48 57]; % Important positions from data
+
+Ubiquitin
+
+min = [13 15 17 23 26 30 38 43 50 52 61 67 69 71]; %minima positions
+DATA = [3 4 8 27 36 42 44 47 48 59 61 67 68 69 70 71]; % Important positions from data
+
+Beta-lactamase 
+
+min = [19 21 26 34 37 45 48 51 56 65 78 83 94 98 102 105 109 112 114 117 119 123 132 135 137 141 145 154 156 158 162 165 167 183 187 189 192 196 200 208 210 219 221 223 234 249 252]; %minima positions
+DATA = [20 41 45 48 105 106 107 109 132 141 154 156 182 204 209 211 216 219 225 255]; % Important positions from data
+
+HRas-GTPase
+
+min = [4 6 10 16 19 24 40 42 46 53 55 60 68 71 76 78 81 89 93 96 100 109 111 114 137 139 142 152 157 160]; %minima positions
+DATA = [6 10 15 16 17 35 38 40 57 75 78 111 112 113 114 115 119 138 141 156 159]; % Important positions from data
+
